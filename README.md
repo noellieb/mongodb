@@ -1,2 +1,2 @@
 # mongodb
-This directory containd most my mong db data
+This directory containd most my mongo db data
